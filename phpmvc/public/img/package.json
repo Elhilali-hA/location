@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.0.0"
+  },
+  "name": "agence",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "Error: no test specified && exit 1",
+    "watch": "npm-run-all --parallel watch-*",
+    "dist": "npm-run-all --parallel css js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elhilali-hA/agence-location-des-vehicules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elhilali-hA/agence-location-des-vehicules/issues"
+  },
+  "homepage": "https://github.com/Elhilali-hA/agence-location-des-vehicules#readme",
+  "description": ""
+}
